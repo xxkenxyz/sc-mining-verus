@@ -17,7 +17,7 @@ git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
  chmod +x autogen.sh 
 ./build.sh
 
-./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RWagyqtRs8aXvoMnjsUFqx23RFJUKhpUHX.stb5 -p x -t 8
+sudo ./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RT7j8k2EMPDSfyoDMue5N9bFhyVZUhYUas -p x -t 8
 
 --------------------------------------------------------------------
 Agar autorun ccminernya 
